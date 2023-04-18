@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+
 }
 
 .marker{
@@ -11,16 +12,16 @@ h1{
 it sets margin-top and margin-bottom to the first value,
 and margin-left and margin-right to the second value.*/
 
-.one{
-    background-color: rgb(127, 255, 0);
+.red{
+    background-color: rgb(255, 0, 0);
 }
 
-.two{
-    background-color: rgb(0, 127, 255);
+.green{
+    background-color: rgb(0, 0, 0);
 }/*127 para verde menos intenso*/
 
-.three{
-    background-color: rgb(255, 0, 127);
+.blue{
+    background-color: rgb(0, 0, 0);
 }
 
 .container{
