@@ -3,7 +3,7 @@ h1{
     background: linear-gradient(90deg, rgb(192, 77, 42) , #90b609, hsl(240, 39%, 45%));
     width: 100%;
     padding: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     margin-top: 0px;
 }
 
@@ -59,4 +59,26 @@ and margin-left and margin-right to the second value.*/
 
 .sleeve, .cap{
     display: inline-block;
+}
+
+/*footer*/
+
+footer{
+    text-align: center;
+    height: 20px;
+    padding: 25px;
+    background: linear-gradient(90deg, hsl(240, 39%, 45%), #90b609,rgb(192, 77, 42));
+    margin-top: 50px;
+    width: 100%;
+    font-family: Serif, Garamond, Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(3, 3, 78);
 }
