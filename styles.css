@@ -1,6 +1,14 @@
 h1{
     text-align: center;
+    background: linear-gradient(90deg, rgb(192, 77, 42) , #90b609, hsl(240, 39%, 45%));
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
 
+body{
+    margin: 0;
 }
 
 .marker{
