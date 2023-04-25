@@ -15,17 +15,20 @@ and margin-left and margin-right to the second value.*/
 .red{
     background: linear-gradient(/*180deg ,*/ rgb(122, 74, 14) , rgb(245, 62, 113), rgb(162, 27, 27));
     box-shadow: 0px 0px 20px 0px rgba(83, 14, 14, 0.8);
+    border-radius: 3px;
 }
 
 
 .green{
     background: linear-gradient( #55680d, #71f53e, #116c31);
     box-shadow: 0px 0px 20px 0px #3b7e20cc;
+    border-radius: 3px;
 }
 
 .blue {
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
     box-shadow: 0px 0px 20px 0px hsla(223, 59%, 31%, 0.8);
+    border-radius: 3px;
 }
 
 .container{
