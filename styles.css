@@ -71,6 +71,10 @@ footer{
     margin-top: 50px;
     width: 100%;
     font-family: Serif, Garamond, Arial, Helvetica, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+
 }
 
 a{
